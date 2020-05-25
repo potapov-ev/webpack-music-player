@@ -1,0 +1,12 @@
+export { default as SpotifyIcon } from "./SpotifyIcon";
+export { default as SearchIcon } from "./SearchIcon";
+export { default as HomeIcon } from "./HomeIcon";
+export { default as PersonIcon } from "./PersonIcon";
+export { default as PauseIcon } from "./PauseIcon";
+export { default as PlayIcon } from "./PlayIcon";
+export { default as SkipNextIcon } from "./SkipNextIcon";
+export { default as SkipPreviousIcon } from "./SkipPreviousIcon";
+export { default as FavoriteBorderIcon } from "./FavoriteBorderIcon";
+export { default as VolumeOnIcon } from "./VolumeOnIcon";
+export { default as VolumeOffIcon } from "./VolumeOffIcon";
+export { default as EqualizerIcon } from "./EqualizerIcon";
