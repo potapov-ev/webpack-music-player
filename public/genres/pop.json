@@ -1,0 +1,37 @@
+[
+  {
+    "artist": "Tones and I",
+    "title": "Dance Monkey",
+    "audioSrc": "/music/Pop/1. Tones and I - Dance Monkey.mp3.mp3",
+    "src": "https://i9.wampi.ru/2019/11/19/1.Tones-and-I---Dance-Monkey.jpg",
+    "id": 11121
+  },
+  {
+    "artist": "SAINt JHN",
+    "title": "Roses (Imanbek Remix)",
+    "audioSrc": "/music/Pop/2. SAINt JHN - Roses (Imanbek Remix).mp3",
+    "src": "https://i0.wampi.ru/2019/11/19/2.-SAINt-JHN---Roses-Imanbek-Remix.jpg",
+    "id": 11122
+  },
+  {
+    "artist": "GAYAZOV$ BROTHER$",
+    "title": "Увезите меня на Дип-хаус",
+    "audioSrc": "/music/Pop/3. GAYAZOV$ BROTHER$ - Увезите меня на Дип-хаус.mp3",
+    "src": "https://i8.wampi.ru/2019/11/19/3.-GAYAZOV-BROTHER---UVEZITE-MENY-NA-DIP-KAUS.jpg",
+    "id": 11123
+  },
+  {
+    "artist": "NILETTO",
+    "title": "Любимка",
+    "audioSrc": "/music/Pop/4. NILETTO - Любимка.mp3",
+    "src": "https://i9.wampi.ru/2019/11/19/4.-NILETTO---LYBIMKA.jpg",
+    "id": 11124
+  },
+  {
+    "artist": "Audiosoulz",
+    "title": "Dancefloor",
+    "audioSrc": "/music/Pop/5. Audiosoulz - Dancefloor.mp3",
+    "src": "https://i0.wampi.ru/2019/11/19/5.-Audiosoulz---Dancefloor.jpg",
+    "id": 11125
+  }
+]

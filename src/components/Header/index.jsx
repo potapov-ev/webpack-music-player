@@ -6,14 +6,15 @@ import {
 } from "./styled";
 
 const Header = () => {
-  const [activeKey, setActiveKey] = useState(1);
   return (
     <Container>
       {
-        HEADER_LINK.map(({ text, key }) => (
+        HEADER_LINK.map(({ text, href, key }) => (
           <HeaderLink
-            onClick={() => { setActiveKey(key); }}
-            active={key === activeKey}
+            key={key}
+            activeStyle={{ borderBottom: "2px solid #1DB954" }}
+            exact
+            to={href}
           >
             {text}
           </HeaderLink>

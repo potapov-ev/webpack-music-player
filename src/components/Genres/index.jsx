@@ -5,6 +5,7 @@ import { useFetch } from "src/hooks";
 
 const Genres = () => {
   const { loading, data, error } = useFetch(genresSource.getGenres, {});
+  
   return (
     <GridContainer
       data={data}

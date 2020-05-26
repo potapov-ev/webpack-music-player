@@ -2,11 +2,9 @@ import React from "react";
 
 const HomeIcon = () => (
   <svg
-    class="MuiSvgIcon-root jss268"
     focusable="false"
     viewBox="0 0 24 24"
     aria-hidden="true"
-    tabindex="-1"
     title="HomeOutlined"
   >
     <path

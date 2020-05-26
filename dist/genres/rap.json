@@ -1,0 +1,44 @@
+[
+  {
+    "artist": "Макс Корж",
+    "title": "2 типа людей",
+    "audioSrc": "/music/Rap/Макс Корж - 2 типа людей.mp3",
+    "src": "https://i9.wampi.ru/2019/11/13/MAKS-KORZ---2-TIPA-LYDEI.jpg",
+    "id": 11131
+  },
+  {
+    "artist": "Fans",
+    "title": "Legends Never Die",
+    "audioSrc": "/music/Rap/Legends Never Die.mp3",
+    "src": "https://i0.wampi.ru/2019/11/13/Legends-Never-Die.jpg",
+    "id": 11132
+  },
+  {
+    "artist": "Linkin Park Jay-Z",
+    "title": "Numb Encore",
+    "audioSrc": "/music/Rap/Linkin Park Jay-Z - Numb Encore.mp3",
+    "src": "https://i8.wampi.ru/2019/11/13/Linkin-Park-Jay-Z---Numb-Encore.jpg",
+    "id": 11133
+  },
+  {
+    "artist": "Miyagi TumaniYO",
+    "title": "Jamm",
+    "audioSrc": "/music/Rap/Miyagi TumaniYO - Jamm.mp3",
+    "src": "https://i9.wampi.ru/2019/11/13/Miyagi-TumaniYO---Jamm.jpg",
+    "id": 11134
+  },
+  {
+    "artist": "SixNine",
+    "title": "Billy",
+    "audioSrc": "/music/Rap/SixNine - Billy.mp3",
+    "src": "https://i0.wampi.ru/2019/11/13/SixNine---Billy.jpg",
+    "id": 11135
+  },
+  {
+    "artist": "Snoop Dogg",
+    "title": "First Place",
+    "audioSrc": "/music/Rap/Snoop Dogg - First Place.mp3",
+    "src": "https://i8.wampi.ru/2019/11/13/Snoop-Dogg---First-Place.jpg",
+    "id": 11136
+  }
+]

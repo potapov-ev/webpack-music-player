@@ -1,4 +1,5 @@
 import styled from "styled-components";
+import { NavLink } from "react-router-dom";
 
 const Container = styled.div`
   width: 100%;
@@ -9,11 +10,11 @@ const Container = styled.div`
   background-color: #101010;
 `;
 
-const HeaderLink = styled.div`
+const HeaderLink = styled(NavLink)`
   padding: 2px 0;
   height: 24px;
   color: white;
-  border-bottom: ${p => p.active && "2px solid #1DB954"};
+  text-decoration: none;
   cursor: pointer;
 `;
 

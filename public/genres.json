@@ -1,0 +1,74 @@
+[
+  {
+    "genre": "mood",
+    "title": "Настроение",
+    "src": "https://i0.wampi.ru/2019/11/19/mood.jpg",
+    "id": 1
+  },
+  {
+    "genre": "pop",
+    "title": "Поп",
+    "src": "https://i8.wampi.ru/2019/11/19/pop.jpg",
+    "id": 2
+  },
+  {
+    "genre": "rap",
+    "title": "Rap",
+    "src": "https://i0.wampi.ru/2019/11/19/rap.jpg",
+    "id": 3
+  },
+  {
+    "genre": "era",
+    "title": "Эпохи",
+    "src": "https://i9.wampi.ru/2019/11/19/era.jpg",
+    "id": 4
+  },
+  {
+    "genre": "dance",
+    "title": "Dance",
+    "src": "https://i8.wampi.ru/2019/11/19/dance.jpg",
+    "id": 5
+  },
+  {
+    "genre": "mood",
+    "title": "Relax",
+    "src": "https://i9.wampi.ru/2019/11/19/relax.jpg",
+    "id": 6
+  },
+  {
+    "genre": "mood",
+    "title": "Тренировки",
+    "src": "https://i9.wampi.ru/2019/11/19/workout.jpg",
+    "id": 7
+  },
+  {
+    "genre": "mood",
+    "title": "Рок",
+    "src": "https://i0.wampi.ru/2019/11/19/rok.png",
+    "id": 8
+  },
+  {
+    "genre": "mood",
+    "title": "Классика",
+    "src": "https://i9.wampi.ru/2019/11/19/classic.png",
+    "id": 9
+  },
+  {
+    "genre": "mood",
+    "title": "Регги",
+    "src": "https://i8.wampi.ru/2019/11/19/reggae.jpg",
+    "id": 10
+  },
+  {
+    "genre": "mood",
+    "title": "R&B",
+    "src": "https://i9.wampi.ru/2019/11/19/RB.jpg",
+    "id": 11
+  },
+  {
+    "genre": "mood",
+    "title": "Зимние праздники",
+    "src": "https://i8.wampi.ru/2019/11/19/winter.jpg",
+    "id": 12
+  }
+]

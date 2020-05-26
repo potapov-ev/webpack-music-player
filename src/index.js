@@ -1,12 +1,15 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import { BasePage } from "Pages";
-import { ThemeProvider } from "Core";
+import { BasePage } from "src/pages"; // алиасы
+import { ThemeProvider } from "src/core";
 import { BrowserRouter } from 'react-router-dom';
-import { AppContextProvider } from "Components";
+import { AppContextProvider } from "src/components";
+
+import "core-js/stable";
+import "regenerator-runtime/runtime";
 
 ReactDOM.render(
-  <React.StrictMode>
+ /*  <React.StrictMode> */
     <ThemeProvider>
       <BrowserRouter>
         <AppContextProvider>
@@ -14,6 +17,6 @@ ReactDOM.render(
         </AppContextProvider>
       </BrowserRouter>
     </ThemeProvider>
-  </React.StrictMode>,
+  /* </React.StrictMode>, */,
   document.getElementById('root')
 );

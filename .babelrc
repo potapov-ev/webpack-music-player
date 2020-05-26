@@ -1,6 +1,14 @@
 {
   "presets": [
-    "@babel/preset-env",
+    "@babel/preset-env", // Зачем это "targets": { "browsers": ["last 2 chrome versions"] },
     "@babel/preset-react"
+  ],
+  "plugins": [
+    [
+      "module:fast-async",
+      {
+        "spec": true
+      }
+    ]
   ]
 }

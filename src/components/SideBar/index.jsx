@@ -36,8 +36,9 @@ const SideBar = () => {
         {
           NAV_BAR_LINKS.map(({ Icon, text, id, href }) => (
             <LinkWrapper
+              key={id}
               to={href}
-              isActive={activeId === id}
+              isActive={activeId === id} // todo добавить ощую обертку обычный div
               onClick={() => { setActiveId(id) }}
             >
               <LinkIconWrapper>
@@ -52,6 +53,7 @@ const SideBar = () => {
       <div>
         <StyledDivider />
         <LogIn
+          to="/"
           onClick={() => { setIsAuthOpen(true); }}
         >
           <LinkIconWrapper>

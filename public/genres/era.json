@@ -1,0 +1,44 @@
+[
+  {
+    "artist": "Backstreet Boys",
+    "title": "Everybody",
+    "audioSrc": "/music/Era/1. Backstreet Boys - Everybody Backstreets Back.mp3",
+    "src": "https://i0.wampi.ru/2019/11/20/1.-Backstreet-Boys---Everybody-Backstreets-Back.jpg",
+    "id": 11141
+  },
+  {
+    "artist": "Backstreet Boys",
+    "title": "I want it that way",
+    "audioSrc": "/music/Era/2. Backstreet Boys - I want it that way.mp3",
+    "src": "https://i8.wampi.ru/2019/11/20/2.-Backstreet-Boys---I-want-it-that-way.jpg",
+    "id": 11142
+  },
+  {
+    "artist": "Britney Spears",
+    "title": "Sometimes",
+    "audioSrc": "/music/Era/3. Britney Spears - Sometimes.mp3",
+    "src": "https://i9.wampi.ru/2019/11/20/3.-Britney-Spears---Sometimes.jpg",
+    "id": 11143
+  },
+  {
+    "artist": "Destinys Child",
+    "title": "Bills Bills Bills",
+    "audioSrc": "/music/Era/4. Destinys Child - Bills Bills Bills.mp3",
+    "src": "https://i0.wampi.ru/2019/11/20/4.-Destinys-Child---Bills-Bills-Bills.jpg",
+    "id": 11144
+  },
+  {
+    "artist": "Destinys Child",
+    "title": "Independent Women",
+    "audioSrc": "/music/Era/5. Destinys Child - Independent Women.mp3",
+    "src": "https://i8.wampi.ru/2019/11/20/5.-Destinys-Child---Independent-Women.jpg",
+    "id": 11145
+  },
+  {
+    "artist": "Elton John",
+    "title": "Circle Of Life",
+    "audioSrc": "/music/Era/6. Elton John - Circle Of Life.mp3",
+    "src": "https://i9.wampi.ru/2019/11/20/6.-Elton-John---Circle-Of-Life.jpg",
+    "id": 11146
+  }
+]

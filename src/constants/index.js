@@ -21,14 +21,17 @@ export const NAV_BAR_LINKS = [
 export const HEADER_LINK = [
   {
     text: "ВЫБОР СЛУШАТЕЛЕЙ",
+    href: "/",
     key: 0,
   },
   {
     text: "ЖАНРЫ И НАСТРОЕНИЯ",
+    href: "/genres",
     key: 1,
   },
   {
     text: "НОВЫЕ РЕЛИЗЫ",
+    href: "/release",
     key: 2,
   },
 ];
