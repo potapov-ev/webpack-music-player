@@ -20,7 +20,7 @@
   "dependencies": {
     "@material-ui/core": "4.9.10",
     "@material-ui/styles": "4.9.10",
-    "axios": "0.19.2",
+    "axios": "0.21.1",
     "fast-async": "7.0.6",
     "final-form": "4.19.1",
     "lodash": "4.17.15",
